@@ -1,3 +1,4 @@
+package Basics;
 public class Temperatura {
     public static void main(String[] args) {
         double fahrenheit = 97;

@@ -1,3 +1,4 @@
+package Basics;
 public class NotacaoPonto {
     public static void main(String[] args) {
         String a = "Olá Mundo X "

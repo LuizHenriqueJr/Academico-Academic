@@ -1,3 +1,4 @@
+package Basics;
 public class ConversaoDeValores { 
     public static void main(String[] args) {
         // Conversão de Inteiros
